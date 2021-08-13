@@ -1,0 +1,87 @@
+/*
+warnaPekat #007f5f
+warnaDasar #023e8a
+warnaHard #023E8A
+warnaSoft #55a630
+
+*/
+.garis{
+	border-bottom: 1px solid #e2e5ec;
+}
+.m-accordion.m-accordion--bordered .m-accordion__item .m-accordion__item-head,.m-accordion.m-accordion--bordered .m-accordion__item .m-accordion__item-head:hover,.m-accordion.m-accordion--default .m-accordion__item .m-accordion__item-head,.m-accordion.m-accordion--default .m-accordion__item .m-accordion__item-head:hover {
+	background-color:#d3f7fe;
+}
+body, html{
+	font-size:15px;
+}
+.footer_color {
+	background-color:#023e8a;
+}
+#siakView .head_color {
+	height:4.1rem;
+	background:#0077B6;
+}
+.color_header_top{
+	border-bottom:2px solid #0077B6;
+}
+#siak_data .head_color {
+	margin-bottom:1rem;
+	background:#023E8A;
+}
+#siak_view .arrow_color{
+	color:#0077B6;
+}
+.m-portlet .m-portlet__head {
+    border-bottom: 1px solid #e2e5ec;
+}
+.foot_color{
+	background-color: #f8fcf7;
+}
+.m-nav .m-nav__item.m-nav__item--active>.m-nav__link .m-nav__link-arrow, .m-nav .m-nav__item.m-nav__item--active>.m-nav__link .m-nav__link-icon, .m-nav .m-nav__item.m-nav__item--active>.m-nav__link .m-nav__link-text, .m-nav .m-nav__item:hover:not(.m-nav__item--disabled)>.m-nav__link .m-nav__link-arrow, .m-nav .m-nav__item:hover:not(.m-nav__item--disabled)>.m-nav__link .m-nav__link-icon, .m-nav .m-nav__item:hover:not(.m-nav__item--disabled)>.m-nav__link .m-nav__link-text {
+    color: #0077B6;
+}
+.m-wizard.m-wizard--2.m-wizard--success .m-wizard__head .m-wizard__steps .m-wizard__step.m-wizard__step--current .m-wizard__step-number>span {
+    background-color: #0077B6;
+}
+.m-wizard.m-wizard--2.m-wizard--success .m-wizard__head .m-wizard__steps .m-wizard__step.m-wizard__step--done a.m-wizard__step-number:hover>span {
+	background-color:#0096C7;
+}
+.m-wizard.m-wizard--2.m-wizard--success .m-wizard__head .m-wizard__steps .m-wizard__step.m-wizard__step--current a.m-wizard__step-number:hover>span {
+	background-color:#0096C7;
+}
+.m-wizard.m-wizard--2.m-wizard--success .m-wizard__head .m-wizard__progress .progress .progress-bar {
+    background-color: #0077B6;
+}
+.m-tabs-line.m-tabs-line--brand a.m-tabs__link.active, .m-tabs-line.m-tabs-line--brand a.m-tabs__link:hover, .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link.active, .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link:hover {
+    color: #007f5f;
+    border-bottom: 1px solid #007f5f;
+}
+.m-table.m-table--head-bg-success thead th {
+	background:#023E8A;
+	color:#fff;
+	border-bottom:0;
+	border-top:0
+}
+.m-topbar .m-topbar__nav.m-nav > .m-nav__item.m-topbar__user-profile.m-topbar__user-profile--img.m-dropdown--arrow .m-dropdown__arrow {
+    color: #2d4379;
+}
+.m-card-user.m-card-user--skin-dark .m-card-user__details .m-card-user__email {
+    color: #e8e8f0;
+}
+.bootstrap-select.show>.dropdown-toggle.btn-light, .bootstrap-select.show>.dropdown-toggle.btn-secondary {
+    border-color: #00B4D8!important;
+}
+.bootstrap-select>.dropdown-toggle.btn-light.active, .bootstrap-select>.dropdown-toggle.btn-light:focus, .bootstrap-select>.dropdown-toggle.btn-secondary.active, .bootstrap-select>.dropdown-toggle.btn-secondary:focus {
+    background-color: transparent;
+    border-color: #00B4D8;
+}
+.form-control.focus,.form-control:focus {
+	border-color:#00B4D8;
+}
+.bootstrap-select .dropdown-menu.inner>li.active:not(.selected)>a {
+    background: #023E8A;
+}
+.m-tabs-line.m-tabs-line--brand a.m-tabs__link.active, .m-tabs-line.m-tabs-line--brand a.m-tabs__link:hover, .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link.active, .m-tabs-line.m-tabs-line--brand.nav.nav-tabs .nav-link:hover{
+	color: #023E8A;
+    border-bottom: 1px solid #ffae03;
+}
